@@ -4,6 +4,8 @@ import { describe } from "vitest";
 import { canReconfigure } from "../utils/canReconfigure";
 
 /*
+https://github.com/monicatvera/adventjs/blob/master/2021/23-fabrica/23-fabrica.md
+
 Estamos en la fábrica de Santa Claus 🎅 creando regalos como si no hubiera un mañana.
 
 Pensábamos que no íbamos a llegar pero Jelf Bezos ha tenido una idea genial para aprovechar las máquinas y optimizar al máximo la creación de regalos. 🎁
