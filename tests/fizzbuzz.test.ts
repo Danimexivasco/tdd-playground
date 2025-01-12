@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { fizzbuzz } from "../utils/fizzbuzz";
+import { fizzbuzz } from "../src/utils/fizzbuzz";
 
 /*
 - show fizz if multiple of 3
