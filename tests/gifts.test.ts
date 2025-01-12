@@ -1,7 +1,7 @@
 import { expect } from "vitest";
 import { it } from "vitest";
 import { describe } from "vitest";
-import { canReconfigure } from "../utils/canReconfigure";
+import { canReconfigure } from "../src/utils/canReconfigure";
 
 /*
 https://github.com/monicatvera/adventjs/blob/master/2021/23-fabrica/23-fabrica.md
