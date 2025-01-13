@@ -1,5 +1,6 @@
 # TDD 
 Small project created to use TDD approach
+If you only need to use **1 test**, prefer e2e, and test all the user interactions, i.e.: navigate to page --> enter somethiing in input --> submit form --> check if item is on list --> remove it -->  check empty status
 ### Technologies used
 - Vitest
 - React-testing-library
