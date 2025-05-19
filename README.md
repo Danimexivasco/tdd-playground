@@ -1,11 +1,21 @@
-# TDD 
-Small project created to use TDD approach
-If you only need to use **1 test**, prefer e2e, and test all the user interactions, i.e.: navigate to page --> enter somethiing in input --> submit form --> check if item is on list --> remove it -->  check empty status
-### Technologies used
+# 🧪 TDD Playground 
+A simple and focused environment for **Test-Driven Development (TDD)** using modern JavaScript/TypeScript tooling.
+
+## Technologies used
 - Vitest
 - React-testing-library
 - Happy-dom
 - Vite
+
+
+-----
+## Notes
+
+If you only need to use **1 test**, prefer e2e, and test all the user interactions.
+```js
+// Example
+navigate to page -->  enter somethiing in input --> submit form --> check if item is on list --> remove it -->  check empty status
+```
 
 ### Differences fireEvent vs userEvent in React-testing-library
 
